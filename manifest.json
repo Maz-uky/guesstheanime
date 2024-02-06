@@ -1,0 +1,9 @@
+{
+    "name": "GuessTheAnime",
+    "theme_color": "#930000",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/index.php"
+  }
